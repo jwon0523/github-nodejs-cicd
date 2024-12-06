@@ -11,14 +11,14 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>쇼핑몰 홈</title>
+      <title>New 쇼핑몰 홈</title>
     </head>
     <body>
-      <h1>Welcome to our Updated Shopping Mall</h1>
+      <h1>Welcome to the New Shopping Mall</h1>
       <ul>
-        <li>Product A - $15</li>
-        <li>Product B - $25</li>
-        <li>Product C - $35</li>
+        <li>Item X - $12</li>
+        <li>Item Y - $22</li>
+        <li>Item Z - $32</li>
       </ul>
     </body>
     </html>
